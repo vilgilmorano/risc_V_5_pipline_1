@@ -1,0 +1,1 @@
+update_design -cells [get_cells <cell_name>]
